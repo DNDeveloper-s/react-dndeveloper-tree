@@ -1,0 +1,14 @@
+{
+  "name": "react-dndeveloper-tree",
+  "version": "1.0.0",
+  "description": "React DND tree build by DNDeveloper on top of react-dnd api",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "react-dndeveloper-tree"
+  ],
+  "author": "DNDeveloper",
+  "license": "ISC"
+}
